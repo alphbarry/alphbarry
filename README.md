@@ -25,8 +25,8 @@
 
 <h2 align="left">Data</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgonk&show_icons=true&theme=dark&locale=en&layout=compact" alt="erikgonk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphbarry&show_icons=true&theme=dark&locale=en&layout=compact" alt="alphbarry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgonk&theme=dark" alt="erikgonk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphbarry&theme=dark" alt="alphbarry" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
