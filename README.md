@@ -1,32 +1,89 @@
-<h1 align="center">Hi, I'm Alpha</h1>
+<h1 align="center">Hi there 👋, I'm Alpha</h1>
+<h3 align="center">Cybersecurity student & 42 Barcelona Cadet</h3>
 
-- Student at **42 Barcelona** and **cyber security student**
+---
 
-<table>
-    <tr>
-        <td align="center">Tecnologies</td>
-        <td align="center">Stats</td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-            <a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" heigth="40"/> </a>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-             <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-        </td>
-        <td align="center">
-            <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=alphbarry&label=Profile%20views&color=005700&style=flat" alt="alphbarry" /></a> <br>
-            <a href="#"><img align="center" src="https://img.shields.io/github/stars/alphbarry?style=social"></a> 
-        </td>
-    </tr>
-</table>
+## 🧑‍💻 About Me
 
-<h2 align="left">Data</h2>
+- 🎓 Currently studying at **42 Barcelona**
+- 🛡️ Passionate about **Cybersecurity**, **Low-level programming** and **Problem Solving**
+- 🚀 I love working on **challenging projects** that mix creativity and performance
+- 💬 Ask me about **C, system calls, Linux internals, reverse engineering**
+- ⚡ Fun fact: I probably run `valgrind` more times than I check my emails
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphbarry&show_icons=true&theme=dark&locale=en&layout=compact" alt="alphbarry" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphbarry&theme=dark" alt="alphbarry" /></p>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash"/>
+</p>
+
+### 🌐 Web & DB
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL"/>
+</p>
+
+### 🔧 Tools & IDEs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphbarry&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alphbarry&theme=tokyonight" alt="Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphbarry&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphbarry&theme=onestar&margin-w=10" alt="trophies"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- [🚀 Minishell](https://github.com/alphbarry/minishell) — UNIX shell clone built from scratch in C  
+- [🌄 FdF](https://github.com/alphbarry/FdF) — 3D wireframe viewer using MiniLibX  
+- [🔒 Coming soon...] — Cybersecurity and binary exploitation challenges
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/alpha-omar-barry-pentester" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/alphbarry">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alphbarry&label=Profile%20views&color=005700&style=flat" alt="profile views" />
+</p>
